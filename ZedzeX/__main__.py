@@ -67,10 +67,10 @@ async def init():
     except:
         pass
     await Zedze.decorators()
-    LOGGER("ZedzeX").info("Zedze Music Bot Started Successfully")
+    LOGGER("ZedzeX").info("AROHI Music Bot Started Successfully")
     await idle()
 
 
 if __name__ == "__main__":
     loop.run_until_complete(init())
-    LOGGER("ZedzeX").info("Stopping Zedze Music Bot...")
+    LOGGER("ZedzeX").info("Stopping AROHI Music Bot...")
