@@ -2,7 +2,7 @@
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
 
 <!--
-**team-katil/team-katil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Made by Sakil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
@@ -14,17 +14,17 @@
 
 
 <h2 align="center">
-    ──「 Zᴇᴅᴢᴇ ✘ 」──
+    ──「 AROHI MUSIC」──
     
 
 ★ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+TEAM+KATIL+🎭">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+SAKIL+🎭">
 <p align="center">
-  <img src="https://telegra.ph/file/ff3d94744211c796cf5bb.jpg">
+  <img src="https://telegra.ph/file/c28cbf76cc77ee56f071e.jpg">
 </p>
 
-**𝘽𝙊𝙏 ➣ [Zᴇᴅᴢᴇ ✘](https://t.me/zedzexrobot)**
+**𝘽𝙊𝙏 ➣ [Zᴇᴅᴢᴇ ✘](https://t.me/UMIKO_CHAT_BOT)**
 
 <p align="center">
 <a href="https://github.com/team-katil/zedzemusic/stargazers"><img src="https://img.shields.io/github/stars/team-katil/zedzemusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
@@ -46,13 +46,13 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/team-katil/zedzemusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Sakil000/jesmine"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h2 align="center">
 
 🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
 <p align="center">
-<a href="https://telegram.me/katil_your_dad"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 亗『𝐊𝐀𝐓𝐈𝐋』亗%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Its_Me_SaKiL"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 亗『SAKIL』亗%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
