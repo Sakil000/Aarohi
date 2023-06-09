@@ -48,8 +48,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("unique_chat_world")
-                await self.one.join_chat("the_warrior_network")
+                await self.one.join_chat("https://t.me/+7H7Jdk9VXkI1Mjhl")
+                await self.one.join_chat("https://t.me/+7H7Jdk9VXkI1Mjhl")
             except:
                 pass
             assistants.append(1)
@@ -79,8 +79,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("unique_chat_world")
-                await self.two.join_chat("the_warrior_network")
+                await self.two.join_chat("https://t.me/+7H7Jdk9VXkI1Mjhl")
+                await self.two.join_chat("https://t.me/+7H7Jdk9VXkI1Mjhl")
             except:
                 pass
             assistants.append(2)
@@ -110,8 +110,8 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("unique_chat_world")
-                await self.three.join_chat("the_warrior_network")
+                await self.three.join_chat("https://t.me/+7H7Jdk9VXkI1Mjhl")
+                await self.three.join_chat("https://t.me/+7H7Jdk9VXkI1Mjhl")
             except:
                 pass
             assistants.append(3)
@@ -141,8 +141,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("unique_chat_world")
-                await self.four.join_chat("the_warrior_network")
+                await self.four.join_chat("https://t.me/+7H7Jdk9VXkI1Mjhl")
+                await self.four.join_chat("https://t.me/+7H7Jdk9VXkI1Mjhl")
             except:
                 pass
             assistants.append(4)
@@ -172,8 +172,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("unique_chat_world")
-                await self.five.join_chat("the_warrior_network")
+                await self.five.join_chat("https://t.me/+7H7Jdk9VXkI1Mjhl")
+                await self.five.join_chat("https://t.me/+7H7Jdk9VXkI1Mjhl")
             except:
                 pass
             assistants.append(5)
