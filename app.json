@@ -1,7 +1,7 @@
 {
-    "name": "Zᴇᴅᴢᴇ ✘",
+    "name": "AROHI",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/ff3d94744211c796cf5bb.jpg",
+    "logo": "https://telegra.ph/file/c28cbf76cc77ee56f071e.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get api id from https://my.telegram.org",
-        "value": "",
+        "value": "29392888",
         "required": true
       },
       "API_HASH": {
         "description": "Get api hash from https://my.telegram.org",
-        "value": "",
+        "value": "552b53d2c5b39cf1d9267ccd17464015",
         "required": true
       },
       "BOT_TOKEN": {
@@ -34,12 +34,12 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "ZedzeX Music",
+        "value": "CUTIE PIE AROHI",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "5827787578",
         "required": true
       },
       "STRING_SESSION": {
@@ -49,7 +49,7 @@
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "0b14d506-f7c9-4474-a832-5dd908195763",
         "required": false
       },
       "HEROKU_APP_NAME": {
@@ -59,7 +59,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1001923845903",
         "required": true
       }
     },
