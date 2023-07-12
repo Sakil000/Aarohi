@@ -24,7 +24,7 @@
   <img src="https://telegra.ph/file/c28cbf76cc77ee56f071e.jpg">
 </p>
 
-**𝘽𝙊𝙏 ➣ [Zᴇᴅᴢᴇ ✘](https://t.me/UMIKO_CHAT_BOT)**
+**𝘽𝙊𝙏 ➣ [Aarohi](https://t.me/UMIKO_CHAT_BOT)**
 
 <p align="center">
 <a href="https://github.com/team-katil/zedzemusic/stargazers"><img src="https://img.shields.io/github/stars/team-katil/zedzemusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
