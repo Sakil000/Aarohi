@@ -7,7 +7,7 @@
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/team-katil/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/sakil/count.svg" />
 </p>
 
 
